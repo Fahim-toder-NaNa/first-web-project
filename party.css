@@ -1,0 +1,71 @@
+body {
+  background-color: #000100;
+}
+header {
+  display: flex;
+  justify-content: space-around;
+  background-color: black;
+}
+
+.name {
+  color: rgb(56, 176, 5);
+  font-size: 40px;
+  font-family: "Rubik Scribble";
+}
+.name:hover {
+  color: antiquewhite;
+}
+.span1 {
+  color: aquamarine;
+}
+
+.first-p {
+  color: cyan;
+  font-size: 40px;
+  font-family: "Rubik Doodle Shadow";
+}
+.first-p:hover {
+  color: rgb(255, 165, 0);
+}
+
+.word-speceing {
+  word-spacing: 80px;
+}
+
+a {
+  text-decoration: none;
+}
+.imgsmoke1gif {
+  display: flex;
+  justify-content: space-around;
+}
+.kakashi {
+  margin-top: 50px;
+  border-radius: 50%;
+  border: 1px solid snow;
+}
+.img2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+}
+.hr1 {
+  box-shadow: 3px 5px 9px aqua;
+}
+.img3 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+}
+.fire1 {
+  border-radius: 50%;
+  border: 1px solid black;
+}
+.h2one {
+  margin-top: 200px;
+  color: rgb(56, 176, 5);
+  font-size: 70px;
+  font-family: "Rubik Scribble";
+  text-shadow: 6px 2px 16px lawngreen;
+  text-align: center;
+}

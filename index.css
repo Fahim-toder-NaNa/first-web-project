@@ -1,0 +1,152 @@
+body {
+  background-color: #000100;
+}
+header {
+  display: flex;
+  justify-content: space-around;
+  background-color: black;
+}
+
+.name {
+  color: rgb(56, 176, 5);
+  font-size: 40px;
+  font-family: "Rubik Scribble";
+}
+.name:hover {
+  color: antiquewhite;
+}
+.span1 {
+  color: aquamarine;
+}
+
+.first-p {
+  color: cyan;
+  font-size: 40px;
+  font-family: "Rubik Doodle Shadow";
+}
+.first-p:hover {
+  color: rgb(255, 165, 0);
+}
+
+.word-speceing {
+  word-spacing: 80px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.for-center {
+  text-align: center;
+}
+.div1 {
+  text-align: center;
+}
+.img1 {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  margin-top: 50px;
+  border: 1px solid silver;
+}
+.img2 {
+  width: 880px;
+}
+.img3 {
+  border-radius: 20px;
+  width: 200px;
+  margin-top: 40px;
+}
+.giv {
+  display: flex;
+  justify-content: space-between;
+}
+.Socialmedia {
+  color: aliceblue;
+  font-family: "Rubik Scribble";
+  text-shadow: 3px 5px 9px aquamarine;
+  text-align: center;
+  font-size: 40px;
+  box-shadow: 3px 5px 18px aquamarine;
+  padding: 10px;
+  width: 500px;
+  border-radius: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+main {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 70px;
+}
+.card1 {
+  display: flex;
+  box-shadow: 3px 5px 18px aquamarine;
+  width: 400px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 30px;
+}
+.fb {
+  border-radius: 50%;
+  width: 100px;
+}
+.ffb {
+  color: aliceblue;
+  font-family: "Rubik Scribble";
+  text-shadow: 3px 5px 9px aquamarine;
+  text-align: center;
+  font-size: 20px;
+  box-shadow: 3px 5px 18px aquamarine;
+  padding: 3px;
+  width: 200px;
+  border-radius: 30px;
+  height: 50px;
+}
+.fbp {
+  font-family: "Rubik Scribble";
+  color: antiquewhite;
+}
+.imgdiv {
+  display: flex;
+  justify-content: space-between;
+}
+.cardimg1,
+.img5 {
+  width: 300px;
+  margin-top: 40px;
+}
+.imgai {
+  display: flex;
+  justify-content: space-around;
+}
+.imgai1 {
+  margin-top: 50px;
+  width: 300px;
+  height: 200px;
+}
+.end {
+  color: aliceblue;
+  font-family: "Rubik Scribble";
+  text-shadow: 3px 5px 9px aquamarine;
+  text-align: center;
+  font-size: 40px;
+  box-shadow: 3px 5px 18px aquamarine;
+  padding: 10px;
+  width: 500px;
+  border-radius: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.giflast {
+  display: flex;
+  justify-content: space-around;
+}
+
+.img6 {
+  margin-top: 100px;
+  width: 400px;
+  border-radius: 30px;
+}
