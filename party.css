@@ -1,6 +1,8 @@
 body {
   background-color: #000100;
 }
+img {
+}
 header {
   display: flex;
   justify-content: space-around;
@@ -68,4 +70,8 @@ a {
   font-family: "Rubik Scribble";
   text-shadow: 6px 2px 16px lawngreen;
   text-align: center;
+}
+
+audio {
+  display: none;
 }

@@ -10,7 +10,7 @@ header {
 .name {
   color: rgb(56, 176, 5);
   font-size: 40px;
-  font-family: "Rubik Scribble";
+  font-family: "Lemon", serif;
 }
 .name:hover {
   color: antiquewhite;
